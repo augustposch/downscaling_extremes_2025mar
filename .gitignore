@@ -1,0 +1,4 @@
+# Trying to ignore any datasets too large to push to GitHub
+
+# ignore anything inside /data/LOCA_downscaled
+data/LOCA_downscaled/*
